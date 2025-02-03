@@ -14,7 +14,7 @@ export default function Footer() {
         className="flex flex-col text-left mx-8 pb-4 text-textdefault dark:text-white font-Nunito"
         data-aos="fade-right"
       >
-        <p className="font-semibold mb-3">Let's have a chat</p>
+        <p className="font-semibold mb-3">Let's have a chat.</p>
         <p className="font-semibold">Contact:</p>
         <a
           href="mailto:patrykp.stefanski@gmail.com"
