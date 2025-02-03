@@ -17,7 +17,10 @@ function Maininfo() {
   };
 
   return (
-    <div className="relative flex flex-col top-0 h-[36rem] w-full max-w-[768px] m-auto py-36 md:h-[38rem]">
+    <div
+      className="relative flex flex-col top-0 h-[36rem] w-full max-w-[768px] m-auto py-36 md:h-[38rem]"
+      data-aos="fade-up"
+    >
       <div className="mb-5">
         <h2 className="text-textdefault dark:text-white  font-Nunito font-bold text-4xl leading-none md:text-5xl ">
           Patryk Stefański
