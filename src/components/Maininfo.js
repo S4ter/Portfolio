@@ -107,11 +107,6 @@ function Maininfo() {
           </div>
         </div>
       </div>
-      {/* <p className="px-7 text-wrap font-Ssp text-lg text-textmaindescription">
-        I excel at merging creativity with technology to deliver innovative
-        solutions. Check out my work - let's create something exceptional
-        together!
-      </p> */}
     </div>
   );
 }
